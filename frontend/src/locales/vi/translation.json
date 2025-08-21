@@ -1,0 +1,167 @@
+{
+  "navbar": {
+    "login": "Đăng nhập",
+    "search": "Tra cứu",
+    "about": "Giới thiệu",
+    "guide": "Hướng dẫn",
+    "form": "Tải biểu mẫu",
+    "contact": "Liên hệ",
+    "phone": "(84-28) 3872 4235",
+    "email": "fosupervisor@vict.com.vn | nth.yen@vict.com.vn"
+  },
+  "login": {
+    "title": "Đăng nhập hệ thống",
+    "roles": {
+      "logistics": "Logistics",
+      "shippingline": "Hãng tàu",
+      "admin": "Admin"
+    },
+    "username": "Tên đăng nhập",
+    "password": "Mật khẩu",
+    "remember": "Nhớ mật khẩu",
+    "forgot": "Quên mật khẩu?",
+    "submit": "Đăng nhập"
+  },
+  "search": {
+    "button": "Tìm kiếm",
+    "resultTitle": "Kết quả",
+    "edo": {
+      "title": "Tra cứu thông tin lệnh giao hàng điện tử - eDO",
+      "containerNo": "Số container",
+      "billNo": "Số bill"
+    },
+    "eir": {
+      "title": "Tra cứu phiếu giao nhận container EIR - Equipment Interchange Receipt",
+      "containerNo": "Số container",
+      "truckNo": "Biển số xe",
+      "date": "Ngày"
+    },
+    "container": {
+      "title": "Tra cứu thông tin container",
+      "containerNo": "Số container"
+    },
+    "ship": {
+      "title": "Tra cứu lịch tàu",
+      "from": "Từ ngày",
+      "to": "Tới ngày"
+    },
+    "result": {
+      "bill": "Số bill",
+      "container": "Số container",
+      "logistics": "Công ty Logistics",
+      "driver": "Tài xế",
+      "shippingline": "Hãng tàu",
+      "createdAt": "Ngày tạo",
+      "status": "Trạng thái"
+    },
+    "noResult": "Không tìm thấy kết quả"
+  },
+  "about": {
+    "builtFor": "VICT - ePORT được xây dựng cho",
+    "roles": {
+      "shippingLine": "Hãng tàu - Trao đổi lệnh giao hàng điện tử eDO, quản lý vận đơn tức thời.",
+      "logistics": "Nhà vận chuyển Logistics - Đăng ký dịch vụ trực tuyến, hiệu quả - nhanh chóng, mọi lúc mọi nơi",
+      "driver": "Tài xế - Nhận lệnh giao hàng điện tử thông qua ứng dụng trên điện thoại thông minh."
+    },
+    "integrateTitle": "Tích hợp mọi thứ trên một nền tảng - mọi lúc - mọi nơi",
+    "features": {
+      "onlineServices": "Đăng ký dịch vụ online",
+      "eDO": "Lệnh giao hàng điện tử eDO",
+      "onlinePayment": "Thanh toán điện tử",
+      "eCustoms": "Hải quan điện tử",
+      "eInvoice": "Hoá đơn điện tử"
+    }
+  },
+  "guide": {
+    "filesTitle": "File hướng dẫn",
+    "videosTitle": "Video hướng dẫn",
+    "file1": "Hướng dẫn thủ tục đăng ký sử dụng cảng điện tử ePort để Nhận lệnh vận chuyển - dành cho tài xế",
+    "file2": "Hướng dẫn thủ tục đăng ký sử dụng cảng điện tử ePort để Tách bill - dành cho công ty forwarder",
+    "file3": "Hướng dẫn thủ tục đăng ký sử dụng cảng điện tử ePort để Đăng ký giao nhận container - dành cho công ty logistics",
+    "file4": "Hướng dẫn thủ tục đăng ký sử dụng cảng điện tử ePort để Phát hành eDO - dành cho hãng tàu",
+    "video1": "Hướng dẫn thủ tục đăng ký dịch vụ Nhận container có hàng từ cảng - dành cho công ty logistics",
+    "video2": "Hướng dẫn thủ tục đăng ký dịch vụ Giao container lưu bãi - dành cho công ty logistics",
+    "video3": "Hướng dẫn thủ tục đăng ký dịch vụ Giao container xuất tàu - dành cho công ty logistics",
+    "video4": "Hướng dẫn thủ tục đăng ký dịch vụ Rút hàng FCL - dành cho công ty logistics",
+    "video5": "Hướng dẫn thủ tục đăng ký dịch vụ Tách bill từ master bill - dành cho công ty forwarder",
+    "video6": "Hướng dẫn thủ tục đăng ký dịch vụ Container chuyển cảng về Vict - dành cho công ty logistics",
+    "video7": "Hướng dẫn thủ tục đăng ký dịch vụ Kiểm hóa cho container hàng - dành cho công ty logistics",
+    "video8": "Hướng dẫn thủ tục đăng ký dịch vụ Đóng hàng FCL - dành cho công ty logistics"
+  },
+  "form": {
+    "title": "Tải biểu mẫu",
+    "download": "Tải về",
+    "form1": "Bản thỏa thuận trao đổi dữ liệu eDO - dành cho hãng tàu",
+    "form2": "Bản đăng ký dịch vụ Cảng điện tử ePort - dành cho công ty forwarder",
+    "form3": "Bản đăng ký dịch vụ Cảng điện tử ePort - dành cho công ty logistics",
+    "form4": "Hướng dẫn thanh toán doanh nghiệp",
+    "form5": "Tariff_VN"
+  },
+  "contact": {
+    "addressTitle": "Địa chỉ liên hệ",
+    "addressLabel": "Địa chỉ",
+    "addressValue": "Số 13 Đường Bến Nghé, phường Tân Thuận, TP. Hồ Chí Minh, Việt Nam",
+    "phoneLabel": "Điện thoại",
+    "taxLabel": "Mã số thuế 0300602277",
+    "taxValue": "do Sở Kế hoạch và Đầu tư Tp. Hồ Chí Minh cấp ngày 22/09/1994",
+    "policyTitle": "Chính sách khách hàng",
+    "services": "Giới thiệu dịch vụ",
+    "price": "Bảng giá",
+    "policy": "Chính sách khách hàng",
+    "refund": "Chính sách đổi trả",
+    "payment": "Điều khoản thanh toán",
+    "shipping": "Chính sách giao nhận - Vận chuyển",
+    "confidentiality": "Chính sách bảo mật"
+  },
+  "status": {
+    "pending": "Đang xử lý",
+    "completed": "Hoàn thành",
+    "cancelled": "Đã hủy",
+    "to_port": "Đang đến cảng",
+    "at_port": "Đang ở cảng",
+    "delivering": "Đang giao hàng",
+    "delivered": "Đã giao hàng"
+  },
+  "features": {
+    "service_registration": "Đăng ký dịch vụ",
+    "receive_loaded": "Nhận container hàng",
+    "container_yard_dropoff": "Container hạ bãi",
+    "receive_empty": "Nhận container rỗng",
+    "container_yard_pickup": "Container xuất bãi",
+    "special_services": "Dịch vụ đặc biệt",
+    "fcl_stuffing": "Đóng hàng FCL",
+    "fcl_unstuffing": "Rút hàng FCL",
+    "container_transshipment": "Container chuyển cảng",
+    "customs_inspection": "Dịch vụ kiểm hóa",
+    "operations": "Điều hành",
+    "lookup": "Tra cứu",
+    "split_bill": "Tách bill",
+    "electronic_invoice": "Hóa đơn điện tử"
+  },
+  "notification": "Thông báo",
+  "logout": "Đăng xuất",
+  "searchs": "Tìm kiếm",
+  "notifications": {
+    "maintenance": "Thông báo bảo trì: hệ thống Eport VICT sẽ bảo trì vào sáng ngày 02/01/2025",
+    "invoice": "Thông báo hóa đơn điện tử: Hóa đơn 1A2B3C của bạn đã thanh toán thanh công vào ngày 01/01/2025"
+  },
+  "feature": {
+    "lot_no": "Mã lô",
+    "bill_no": "Mã bill",
+    "house_bill_no": "Mã vận đơn",
+    "container_no": "Số container"
+  },
+  "logistics": {
+    "dashboard": "Bảng điều khiển Logistics",
+    "welcome": "Chào mừng người dùng Logistics! Tại đây bạn có thể theo dõi lô hàng và container."
+  },
+  "status2": {
+    "confirmed": "Xác nhận",
+    "paid": "Thanh toán",
+    "incurred": "Có phí phát sinh",
+    "delivering": "Đang giao",
+    "delivered": "Đã giao"
+  },
+  "no_active_feature": "Không có tính năng nào được chọn",
+  "select_feature": "Vui lòng chọn một tính năng từ thanh hành động"
+}

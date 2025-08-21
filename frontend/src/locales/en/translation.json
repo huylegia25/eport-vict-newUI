@@ -1,0 +1,167 @@
+{
+  "navbar": {
+    "login": "Login",
+    "search": "Search",
+    "about": "About",
+    "guide": "Guide",
+    "form": "Download document",
+    "contact": "Contact",
+    "phone": "(84-28) 3872 4235",
+    "email": "fosupervisor@vict.com.vn | nth.yen@vict.com.vn"
+  },
+  "login": {
+    "title": "System login",
+    "roles": {
+      "logistics": "Logistics",
+      "shippingline": "Shipping line",
+      "admin": "Admin"
+    },
+    "username": "Username",
+    "password": "Password",
+    "remember": "Remember password",
+    "forgot": "Forgot password?",
+    "submit": "Sign in"
+  },
+  "search": {
+    "button": "Search",
+    "resultTitle": "Result",
+    "edo": {
+      "title": "Search electronic delivery order information - eDO",
+      "containerNo": "Container no",
+      "billNo": "Bill of lading"
+    },
+    "eir": {
+      "title": "Search equipment interchange receipt information - EIR",
+      "containerNo": "Container no",
+      "truckNo": "Truck no",
+      "date": "Date"
+    },
+    "container": {
+      "title": "Search container information",
+      "containerNo": "Container no"
+    },
+    "ship": {
+      "title": "Search vessel schedule",
+      "from": "From date",
+      "to": "To date"
+    },
+    "result": {
+      "bill": "Bill of lading",
+      "container": "Container no",
+      "logistics": "Logistics company",
+      "driver": "Driver",
+      "shippingline": "Shipping line",
+      "createdAt": "Created at",
+      "status": "Status"
+    },
+    "noResult": "No results found"
+  },
+  "about": {
+    "builtFor": "VICT - ePORT was built for",
+    "roles": {
+      "shippingLine": "Shipping line - Exchange electronic delivery order eDO, real-time bill management.",
+      "logistics": "Logistics company - Online services, efficiency - fast - everywhere.",
+      "driver": "Driver - Receive equipment interchange order online on mobile application."
+    },
+    "integrateTitle": "Integrate everything into one platform",
+    "features": {
+      "onlineServices": "Online services",
+      "eDO": "Electronic delivery order eDO",
+      "onlinePayment": "Online payment",
+      "eCustoms": "e-Customs",
+      "eInvoice": "e-Invoice"
+    }
+  },
+  "guide": {
+    "filesTitle": "Instructional Files",
+    "videosTitle": "Instructional Videos",
+    "file1": "Guide for registering to use the ePort electronic port system for Transport Order Collection - for drivers",
+    "file2": "Guide for registering to use the ePort electronic port system for Bill Splitting - for forwarding companies",
+    "file3": "Guide for registering to use the ePort electronic port system for Container Delivery and Pickup Registration - for logistics companies",
+    "file4": "Guide for registering to use the ePort electronic port system for eDO Issuance - for shipping lines",
+    "video1": "Guide for registering the service of Receiving full containers from the port - for logistics companies",
+    "video2": "Guide for registering the service of Delivering yard-stored containers - for logistics companies",
+    "video3": "Guide for registering the service of Delivering export containers to vessel - for logistics companies",
+    "video4": "Guide for registering the service of FCL cargo unstuffing - for logistics companies",
+    "video5": "Guide for registering the service of Splitting bill from master bill - for forwarding companies",
+    "video6": "Guide for registering the service of Transferring containers to VICT - for logistics companies",
+    "video7": "Guide for registering the service of Container cargo customs inspection - for logistics companies",
+    "video8": "Guide for registering the service of FCL cargo stuffing - for logistics companies"
+  },
+  "form": {
+    "title": "Download documents",
+    "download": "Download",
+    "form1": "Agreement on eDO data transmission - for shipping lines",
+    "form2": "ePort electronic port service registration form - for forwarding companies",
+    "form3": "ePort electronic port service registration form - for logistics companies",
+    "form4": "Corporate payment guide",
+    "form5": "Tariff_VN"
+  },
+  "contact": {
+    "addressTitle": "Contact address",
+    "addressLabel": "Address",
+    "addressValue": "13 Ben Nghe Street, Tan Thuan Ward, HCM City, Vietnam",
+    "phoneLabel": "Phone",
+    "taxLabel": "Tax code 0300602277",
+    "taxValue": "issued by the Department of Planning and Investment of Ho Chi Minh City on September 22, 1994",
+    "policyTitle": "Customer policy",
+    "services": "Services introduction",
+    "price": "Price list",
+    "policy": "Customer policy",
+    "refund": "Refund policy",
+    "payment": "Payment terms",
+    "shipping": "Shipping and Delivery policy",
+    "confidentiality": "Confidentiality policy"
+  },
+  "status": {
+    "pending": "Pending",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "to_port": "To port",
+    "at_port": "At port",
+    "delivering": "Delivering",
+    "delivered": "Delivered"
+  },
+  "features": {
+    "service_registration": "Service registration",
+    "receive_loaded": "Receive loaded container",
+    "container_yard_dropoff": "Container yard drop-off",
+    "receive_empty": "Receive empty container",
+    "container_yard_pickup": "Container yard pick-up",
+    "special_services": "Special services",
+    "fcl_stuffing": "FCL stuffing",
+    "fcl_unstuffing": "FCL unstuffing",
+    "container_transshipment": "Container transshipment",
+    "customs_inspection": "Customs inspection service",
+    "operations": "Operations",
+    "lookup": "Lookup",
+    "split_bill": "Split bill of lading",
+    "electronic_invoice": "Electronic invoice"
+  },
+  "notification": "Notification",
+  "logout": "Logout",
+  "searchs": "Search",
+  "notifications": {
+    "maintenance": "Maintenance notice: Eport VICT system will be maintained in the early morning on Jan 02, 2025",
+    "invoice": "Electronic invoice notice: Your bill 1A2B3C was successfully paid on Jan 01, 2025"
+  },
+  "feature": {
+    "lot_no": "Lot no",
+    "bill_no": "Bill no",
+    "house_bill_no": "House bill no",
+    "container_no": "Container no"
+  },
+  "logistics": {
+    "dashboard": "Logistics Dashboard",
+    "welcome": "Welcome, logistics user! Here you can track shipments and containers."
+  },
+  "status2": {
+    "confirmed": "Confirmed",
+    "paid": "Paid",
+    "incurred": "Incurred costs",
+    "delivering": "Delivering",
+    "delivered": "Delivered"
+  },
+  "no_active_feature": "No active feature",
+  "select_feature": "Please select a feature from the action bar."
+}
